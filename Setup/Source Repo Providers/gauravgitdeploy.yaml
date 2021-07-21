@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:1AqbGsr2To6bAInAnGduzA
+url: https://github.com/pandeg/adminlab
+urlType: REPO
+username: git

@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:qWHRqt9ZRNOtG1hLce1-kg
+url: https://github.com/tmooredba/adminlab
+urlType: REPO
+username: git

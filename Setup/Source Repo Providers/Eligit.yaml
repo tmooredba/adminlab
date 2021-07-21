@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: master
+keyAuth: false
+password: safeharness:6B8f8MbPTmGjchD3bxQ4Dg
+url: https://github.com/magicsupereli/adminlab
+urlType: REPO
+username: magicsupereli

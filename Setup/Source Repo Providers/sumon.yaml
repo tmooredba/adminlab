@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: master
+keyAuth: false
+password: safeharness:fi1Js4PtSuSCKbaEH2Ni2g
+url: https://gitlab.com/myatsumon_seagate/adminlab.git
+urlType: REPO
+username: myat86@gmail.com
