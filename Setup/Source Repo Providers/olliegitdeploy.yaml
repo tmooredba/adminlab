@@ -1,0 +1,8 @@
+harnessApiVersion: '1.0'
+type: GIT
+branch: main
+keyAuth: false
+password: safeharness:FVNnNyBHQ2ep5x-uBvoLHw
+url: https://github.com/OliverEdwards2020/adminlab
+urlType: REPO
+username: git
